@@ -1,0 +1,378 @@
+{
+    "MainEvents":[
+        {
+            "Code":"JDF_2023",
+            "Description":"Jeux de la Francophonie",
+            "Logo":"jdf_logo.png",
+            "Date":"2023",
+            "Place":"Kinshasa, RD Congo",
+            "Url":"https://jdf2023.microplustimingservices.com/#/general-schedule",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            },{
+                "FileName": "api.svg",
+                "Description": "Web Services"
+            },{
+                "FileName": "design.png",
+                "Description": "UX/UI design"
+            },{
+                "FileName": "project-management.png",
+                "Description": "Project Management"
+            }],
+            "AdditionalDescription":"I leaded and organised the Front-End Development team for building the results website and the Front-End and Web Services for the CIS(for real-time events and statistics used by commentators) as well using Node.JS. I also worked on the actual development of it and leaded and organised the testing phase for both the front-end and back-end part."
+        },{
+            "Code":"LPG_2023",
+            "Description":"Winter University Games",
+            "Logo":"logoLP.png",
+            "Date":"2023",
+            "Place":"Lake Placid, USA",
+            "Url":"https://lakeplacid2023.microplustimingservices.com/#/general-schedule",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            },{
+                "FileName": "design.png",
+                "Description": "UX/UI design"
+            },{
+                "FileName": "project-management.png",
+                "Description": "Project Management"
+            }],
+            "AdditionalDescription":"I leaded and organised the Front-End Development team for building the results website and worked on the actual development of it."
+        },
+        {
+            "Code":"CGB_2022",
+            "Description":"Commonwealth Games",
+            "Logo":"birmilogo.svg",
+            "Date":"2022",
+            "Place":"Birmingham, England",
+            "Url":"https://results.birmingham2022.com/#/general-schedule",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            },{
+                "FileName": "design.png",
+                "Description": "UX/UI design"
+            },{
+                "FileName": "project-management.png",
+                "Description": "Project Management"
+            }],
+            "AdditionalDescription":"I leaded and organised the Front-End Development team for building this results website, attented at all the meetings we did and worked on the actual development of it. I started this journey by doing some researches and understanding how other companies did those kind of projects in the past. After that, as soon as i had enough basic knowledge, I started preparing a basic structure."
+        },
+        {
+            "Code":"MGO_2022",
+            "Description":"Mediterranean Games",
+            "Logo":"logoleoneoran.png",
+            "Date":"2022",
+            "Place":"Oran, Algeria",
+            "Url":"https://oran2022.microplustiming.com/",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            },{
+                "FileName": "design.png",
+                "Description": "UX/UI design"
+            },{
+                "FileName": "project-management.png",
+                "Description": "Project Management"
+            }],
+            "AdditionalDescription":"I leaded and organised the Front-End Development team for building the results website and worked on the actual development of it."
+
+        }
+    ],
+    "SmallEvents":[
+        {
+            "Code":"WAM_2024",
+            "Description":"World Aquatics Masters Championships 2024",
+            "Logo":"worldaquamasters2024.png",
+            "Date":"2024",
+            "Place":"Doha, Qatar",
+            "Url":"https://wmc2024.microplustimingservices.com/",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        },
+        {
+            "Code":"UKA_2024",
+            "Description":"Microplus UK Athletics Indoor Championships 2024",
+            "Logo":"ukaic2024png.png",
+            "Date":"2024",
+            "Place":"Manchester, England",
+            "Url":"https://ukaic2024.microplustimingservices.com/",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        },
+        {
+            "Code":"AAC_2024",
+            "Description":"2nd Arab Aquatics Age Group Championships",
+            "Logo":"aac2024.jpg",
+            "Date":"2024",
+            "Place":"Doha, Qatar",
+            "Url":"https://aac24.microplustimingservices.com/",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        },{
+            "Code":"EWPM_2024",
+            "Description":"European Waterpolo Championships Men",
+            "Logo":"ewpc_men.png",
+            "Date":"2024",
+            "Place":"Otopeni, Romania",
+            "Url":"https://ewpc2024.len.eu/ewpc-men/",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        },{
+            "Code":"EWPW_2024",
+            "Description":"European Waterpolo Championships Women",
+            "Logo":"ewpc_women.png",
+            "Date":"2024",
+            "Place":"Otopeni, Romania",
+            "Url":"https://ewpc2024.len.eu/ewpc-women/",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        },{
+            "Code":"ESC_2024",
+            "Description":"European Short Course Championships",
+            "Logo":"europeanshortcourse2024.jpg",
+            "Date":"2023",
+            "Place":"Otopeni, Romania",
+            "Url":"https://esch23.microplustimingservices.com/#/athletic-sports-schedule/SWM/*",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        },
+        {
+            "Code":"JDP_2023",
+            "Description":"Jeux Méditerranéens de Plage",
+            "Logo":"jeuxplage2023.jpeg",
+            "Date":"2023",
+            "Place":"Heraklion, Greece",
+            "Url":"https://heraklion23.microplustimingservices.com/#/general-schedule",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            },{
+                "FileName": "api.svg",
+                "Description": "Web Services"
+            },{
+                "FileName": "design.png",
+                "Description": "UX/UI design"
+            },{
+                "FileName": "project-management.png",
+                "Description": "Project Management"
+            }]
+
+        },  {
+            "Code":"KKC_2023",
+            "Description":"Kip Keino Classic 2023",
+            "Logo":"KKC.png",
+            "Date":"2023",
+            "Place":"Nairobi, Kenya",
+            "Url":"https://kipkeinoclassic2023.microplustimingservices.com/",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        },    
+        {
+            "Code":"BWP_2023",
+            "Description":"Beach Games Qualification Tournament 2023 - Beach Water Polo",
+            "Logo":"BWP.png",
+            "Date":"2023",
+            "Place":"Soma bay, Egypt",
+            "Url":"https://beachwaterpolo2023.microplustimingservices.com/#/schedule-bydate/ASM",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        },
+        {
+            "Code":"FEC_2023",
+            "Description":"FIS Europa Cup",
+            "Logo":"FISlogo.png",
+            "Date":"2023",
+            "Place":"Mottolino Livigno, Italy",
+            "Url":"https://fislivigno2023.microplustimingservices.com/#/general-schedule",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        },
+        {
+            "Code":"WWC_2023",
+            "Description":"Water Polo World Cup 2023",
+            "Logo":"wpwc2023.png",
+            "Date":"2023",
+            "Place":"Mixed",
+            "Url":"https://worldcupwp2023.microplustimingservices.com/#/schedule-bydate/ASM",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        },
+        {
+            "Code":"AIC_2023",
+            "Description":"UK Athletics Indoor Championships Combined Events 2023",
+            "Logo":"ukaic_combined.png",
+            "Dark":true,
+            "Date":"2023",
+            "Place":"Birmingham, England",
+            "Url":"https://ukaic2023-ce.microplustimingservices.com/#/schedule-bydate",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        },
+        {
+            "Code":"WAI_2023",
+            "Description":"World Athletics Indoor Tour Finals 2023",
+            "Logo":"waitf.png",
+            "Dark":true,
+            "Date":"2023",
+            "Place":"Birmingham, England",
+            "Url":"https://waitf2023.microplustimingservices.com/#/schedule-bydate",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        },
+        {
+            "Code":"LEA_2022",
+            "Description":"LEN European Acquatics",
+            "Logo":"HeaderRoma.svg",
+            "Date":"2022",
+            "Place":"Rome, Italy",
+            "Url":"https://roma2022.microplustimingservices.com/indexRoma2022_web.php",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        },
+        {
+            "Code":"CIS_2021",
+            "Description":"CIS Games",
+            "Logo":"CIS_Kazan2021_Mono.png",
+            "Date":"2022",
+            "Place":"Kazan, Russia",
+            "Url":"https://ciskazan2021.microplustiming.com/#/schedule",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            },{
+                "FileName": "design.png",
+                "Description": "UX/UI design"
+            }]
+
+        },
+        {
+            "Code":"LEA_2020",
+            "Description":"LEN European Aquatics Championships",
+            "Logo":"Budapest2020.jpg",
+            "Date":"2021",
+            "Place":"Budapest, Hungary",
+            "Url":"http://budapest2020.microplustiming.com/",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        },
+        {
+            "Code":"EYB_2019",
+            "Description":"Summer EYOF",
+            "Logo":"baku.png",
+            "Date":"2019",
+            "Place":"Baku, Azerbaijan",
+            "Url":"https://eyofbaku2019.microplustiming.com/#/schedule",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        },
+        {
+            "Code":"WUN_2019",
+            "Description":"30th Summer Universiade",
+            "Logo":"napoliUniversiade.png",
+            "Date":"2019",
+            "Place":"Napoli, Italy",
+            "Url":"https://universiade2019napoli.microplustiming.com/#/schedule",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        },
+        {
+            "Code":"WUK_2019",
+            "Description":"Winter Universiade",
+            "Logo":"KRS.jpg",
+            "Date":"2019",
+            "Place":"Krasnoyarsk, Russia",
+            "Url":"https://krsk2019universiade.microplustiming.com/",
+            "SkillsUsed":[{
+                "FileName": "coding.png",
+                "Description": "Web Development"
+            }]
+
+        }
+    ],
+    "UXUIProjects":[
+        {
+            "Code":"NXT_2021",
+            "Description":"Next Step",
+            "Logo":"NextStep.png",
+            "Date":"2021",
+            "CaseStudy":"NextStep_CaseStudy.pdf",
+            "SkillsUsed":[{
+                "FileName": "design.png",
+                "Description": "UX/UI design"
+            }]
+
+        },{
+            "Code":"RHZ_2021",
+            "Description":"Rehouzz",
+            "Logo":"Rehouzz.png",
+            "Date":"2021",
+            "CaseStudy":"Rehouzz_CaseStudy.pdf",
+            "SkillsUsed":[{
+                "FileName": "design.png",
+                "Description": "UX/UI design"
+            }]
+
+        },{
+            "Code":"SWC_2021",
+            "Description":"Sappwich",
+            "Logo":"Sappwich.png",
+            "Date":"2021",
+            "CaseStudy":"Sappwich_CaseStudy.pdf",
+            "SkillsUsed":[{
+                "FileName": "design.png",
+                "Description": "UX/UI design"
+            }]
+
+        }
+    ]
+}
